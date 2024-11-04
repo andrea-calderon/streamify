@@ -1,1 +1,2 @@
-# streamify
+# STREAMIFY
+Streamify es una aplicación de películas que permite a los usuarios explorar y descubrir información detallada sobre sus películas favoritas. Utilizando la API de MovieDB, Streamify ofrece acceso a una amplia base de datos de películas, incluyendo sinopsis, calificaciones, actores principales y más. Ideal para los amantes del cine que desean tener una experiencia de navegación fluida e intuitiva, Streamify te trae lo mejor del séptimo arte directamente a tu pantalla.
