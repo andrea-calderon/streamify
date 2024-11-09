@@ -1,0 +1,10 @@
+{
+  "name": "streamify",
+  "version": "1.0.0",
+  "description": "Aplicación de películas utilizando la API de MovieDB.",
+  "main": "index.html",
+  "repository": "git@github.com:andrea-calderon/streamify.git",
+  "author": "Andrea Alvanés <alvanesc@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
